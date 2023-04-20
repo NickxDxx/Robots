@@ -60,6 +60,7 @@ Some best results:
 
 
 Some ironic results:
+![Screenshot Ironic (2)](https://user-images.githubusercontent.com/124453554/233509896-7d970d4f-2c72-43a4-817b-7fab626751db.png)
 
 
 A robusted AI bot with poor vision: like a strong old man.
