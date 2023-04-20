@@ -18,6 +18,7 @@ Meet any error such as: Reconnect to the game, be shown a new card, clicked a ca
 It doesn't has brain or he/she, but has inteligence be given by me.
 
 Quick start:
+```python
 red_button_array, play_button_array,collect_button_array,next_button_array,retreat_button_array,turn1next_button_array, turn2next_button_array, turn3next_button_array, turn4next_button_array, turn5next_button_array, Endnext_button_array = Load_buttons('C:/Users/acer/Pictures/Snap/Snap button')
 image_list = Read_deck("C:/Users/acer/Pictures/Snap/Discard deck/Cards")
 
@@ -30,7 +31,7 @@ For custmise deck:
 Crop your in-match card image like i showned in the card image folder for better recongnition: It's not a fancy techknowledge but simple template match at balance.
 Put your deck-card image in the folder and put path: Read_deck("C:/Users/acer/Pictures/Snap/Discard deck/Cards")
 Build your turn-card recongnition list
-'''python
+```python
 Turn1_card_tupo = (1,['Sunspot', 'Blade'])
 Turn2_card_tupo = (2,['Sunspot','Blade','Wolverine'])
 Turn3_card_tupo = (3,['Lady','Sunspot','Blade','Wolverine'])
