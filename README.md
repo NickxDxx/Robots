@@ -30,7 +30,7 @@ For custmise deck:
 Crop your in-match card image like i showned in the card image folder for better recongnition: It's not a fancy techknowledge but simple template match at balance.
 Put your deck-card image in the folder and put path: Read_deck("C:/Users/acer/Pictures/Snap/Discard deck/Cards")
 Build your turn-card recongnition list
-'''Python
+'''python
 Turn1_card_tupo = (1,['Sunspot', 'Blade'])
 Turn2_card_tupo = (2,['Sunspot','Blade','Wolverine'])
 Turn3_card_tupo = (3,['Lady','Sunspot','Blade','Wolverine'])
