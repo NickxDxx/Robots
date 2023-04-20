@@ -21,7 +21,7 @@ Quick start:
 ```python
 red_button_array, play_button_array,collect_button_array,next_button_array,retreat_button_array,turn1next_button_array, turn2next_button_array, turn3next_button_array, turn4next_button_array, turn5next_button_array, Endnext_button_array = Load_buttons('C:/Users/acer/Pictures/Snap/Snap button')
 image_list = Read_deck("C:/Users/acer/Pictures/Snap/Discard deck/Cards")
-
+```
 In the script changing the path to read your card image path: Folder.
 You can simply download my Snap button folder images for button recongnition.
 
@@ -38,7 +38,7 @@ Turn3_card_tupo = (3,['Lady','Sunspot','Blade','Wolverine'])
 Turn4_card_tupo = (4,['Jubilee','Dracula','Ghost','Sunspot','Blade','Wolverine'])
 Turn5_card_tupo = (5,['Spider Woman','Jubilee','Dracula','Ghost Rider','Sunspot','Blade','Wolverine'])
 Turn6_card_tupo = (6,['Hela','Hulk','AmericaChavez','Spider Woman','Jubilee','Dracula','Ghost Rider','Sunspot','Blade','Wolverine'])
-
+```
 By for loop favor and algorithm, it/he/she will loop thought all the first card name in the given image recongnition folder. So 'Hela' at turn 6 if favorable will be the first put out.
 
 Don't worry beyond turn 6, it built to last forever at one match and recongnize any time the match is over or anything happend inside the match. (Currently are only errors like elements)
