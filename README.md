@@ -30,14 +30,14 @@ For custmise deck:
 Crop your in-match card image like i showned in the card image folder for better recongnition: It's not a fancy techknowledge but simple template match at balance.
 Put your deck-card image in the folder and put path: Read_deck("C:/Users/acer/Pictures/Snap/Discard deck/Cards")
 Build your turn-card recongnition list
-'''
+'''Python
 Turn1_card_tupo = (1,['Sunspot', 'Blade'])
 Turn2_card_tupo = (2,['Sunspot','Blade','Wolverine'])
 Turn3_card_tupo = (3,['Lady','Sunspot','Blade','Wolverine'])
 Turn4_card_tupo = (4,['Jubilee','Dracula','Ghost','Sunspot','Blade','Wolverine'])
 Turn5_card_tupo = (5,['Spider Woman','Jubilee','Dracula','Ghost Rider','Sunspot','Blade','Wolverine'])
 Turn6_card_tupo = (6,['Hela','Hulk','AmericaChavez','Spider Woman','Jubilee','Dracula','Ghost Rider','Sunspot','Blade','Wolverine'])
-'''
+
 By for loop favor and algorithm, it/he/she will loop thought all the first card name in the given image recongnition folder. So 'Hela' at turn 6 if favorable will be the first put out.
 
 Don't worry beyond turn 6, it built to last forever at one match and recongnize any time the match is over or anything happend inside the match. (Currently are only errors like elements)
