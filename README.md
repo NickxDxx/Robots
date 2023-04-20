@@ -37,7 +37,9 @@ Turn4_card_tupo = (4,['Jubilee','Dracula','Ghost','Sunspot','Blade','Wolverine']
 Turn5_card_tupo = (5,['Spider Woman','Jubilee','Dracula','Ghost Rider','Sunspot','Blade','Wolverine'])
 Turn6_card_tupo = (6,['Hela','Hulk','AmericaChavez','Spider Woman','Jubilee','Dracula','Ghost Rider','Sunspot','Blade','Wolverine'])
 By for loop favor and algorithm, it/he/she will loop thought all the first card name in the given image recongnition folder. So 'Hela' at turn 6 if favorable will be the first put out.
+
 Don't worry beyond turn 6, it built to last forever at one match and recongnize any time the match is over or anything happend inside the match. (Currently are only errors like elements)
+
 You can free use my deck:
 ![11](https://user-images.githubusercontent.com/124453554/233508648-852f3538-26df-498b-93a2-53c2c76fe046.png)
 Some tips:
