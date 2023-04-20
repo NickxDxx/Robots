@@ -60,7 +60,7 @@ Some best results:
 
 
 Some ironic results:
-![Screenshot Ironic](https://user-images.githubusercontent.com/124453554/233508100-33f9520b-d0e6-40bd-aa64-a9af5f3ddb0b.png)
+
 
 A robusted AI bot with poor vision: like a strong old man.
 But it will be defintely robusted handle any situations, repeat games, clear missions, win lanes and even win some games.
