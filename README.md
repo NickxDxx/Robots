@@ -1,4 +1,8 @@
 # Marvel-Snap-Ultra-Robust-3-day-coding
+-------------
+WARNING: CARE ABOU OTHER GAMERS FEELING, USING IT IN LESS PERIOD TIME, ABUSING IT WILL RESULTS THIS SCRIPT DISAPPEAR WITH NO FURTHER UPDATE.
+-------------
+
 Currently Jane only support 
 Screen resolution at :1920x 1080
 Game setting: 60FPS, High, Full screen size - Window
