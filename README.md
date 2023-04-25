@@ -1,31 +1,31 @@
 # Marvel-Snap-Ultra-Robust-3-day-coding
+Currently Jane only support 
+Screen resolution at :1920x 1080
+Game setting: 60FPS, High, Full screen size - Window
 
-This Marvel Snap auto bot ultra robust for your Season Pass and daily mission. 
-It/He/She does not have inteligence by design but be put some sort of inteligence from algorithm.
+The project created by Jay in 3 day coding. 
+It designed only for short time period Season Pass XP acquire and doing boring daily missions.
+Currently after detecting what happened or situation on the screen or specific size of screen, it picks cards in hand and drop them randomly on locations.
 
-Ultra Robust:
-Handle any situation:
-The script/program designed to last turn 19 for Kong, instead i forget the infinite Kong loop be fixed.
-It designed to fix any turns game up to infinity, even in its brian doesn't have conclusion about what is button about beyond turn 6 or turn 5/7, 6/7 to 7/7.
+It detecting what everything happened around on the screen or specific size of screen, and react 
 
-You can simple cover the screen in the mid of game, doing something, by short period let's say 10 seconds it will still catch up and doing the job.
-You leave any situation that this program can not figuring out such as cover the screen too long, it will recontinue at any given siuation but not designed to be shown except in the game match, or the mian page as not given any ideads about what outside main page: News look like to go back to mian page.
-Example: 
-Counter infinite Kong, turn 7 games.
-leaving any situation and returning to game: usually when the match is finished leave the collect rewards button.
-Meet any error such as: Reconnect to the game, be shown a new card, clicked a card and showing the card detail in the game all handled by algorithm.
+You see here is the first Edition, perfection robusted robot for Marvel Snap Season pass XP acquire and mission rewards compeletion
+Currently you can prepick deck, it will run by some logic and pick locations randomly(You need to set your screen  (You can cusmise the deck you usewith 'poor' or 'Okay' vision. -- Template matching.
+It designed to play each match up to infinity(set to 19) turns and detecting and reacting to anything happened during the ahcituecutre.
+Some robust testing:
+During reconnecting game, Quit the design root, stop the program when it auto reconnecting to the match, mannually reconnecting to the game and restart the program, successfully detecting and starting at last seconds to play the round left and keep autoing.
+Cover the game screen at anywhere, even when the match ended, reshowing the game screen and auto doing the function finish the game( by clicking collect rewards/Next button/Play button) to continue next match.
 
-It doesn't has brain or he/she, but has inteligence be given by me.
+Current win rate in 600 games: 21%
 
-Quick start:
+
+
+Quick start
+Download the button images 
 ```python
 red_button_array, play_button_array,collect_button_array,next_button_array,retreat_button_array,turn1next_button_array, turn2next_button_array, turn3next_button_array, turn4next_button_array, turn5next_button_array, Endnext_button_array = Load_buttons('C:/Users/acer/Pictures/Snap/Snap button')
 image_list = Read_deck("C:/Users/acer/Pictures/Snap/Discard deck/Cards")
 ```
-In the script changing the path to read your card image path: Folder.
-You can simply download my Snap button folder images for button recongnition.
-
-I'm running a Agantha liked deck but much more flexible.
 
 For custmise deck:
 Crop your in-match card image like i showned in the card image folder for better recongnition: It's not a fancy techknowledge but simple template match at balance.
