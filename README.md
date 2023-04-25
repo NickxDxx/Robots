@@ -18,19 +18,24 @@ Cover the game screen at anywhere, even when the match ended, reshowing the game
 
 Current win rate in 600 games: 21%
 
-
-
+Preset can be download and have rooms for you to cusmise:
+A preset Discard deck image folder and preset Deck order
+Defualt can be download deck infomation:
+```
+![11](https://user-images.githubusercontent.com/124453554/233508648-852f3538-26df-498b-93a2-53c2c76fe046.png)
+```
 Quick start
-Download the button images 
+1. Read the button images
+   Download the button image folder and set the root on script.
+   Dwonload the deck images, set or your own deck images like what i used in the deck image folder. 
+   
 ```python
 red_button_array, play_button_array,collect_button_array,next_button_array,retreat_button_array,turn1next_button_array, turn2next_button_array, turn3next_button_array, turn4next_button_array, turn5next_button_array, Endnext_button_array = Load_buttons('C:/Users/acer/Pictures/Snap/Snap button')
 image_list = Read_deck("C:/Users/acer/Pictures/Snap/Discard deck/Cards")
 ```
+Custumise your deck: By for loop favor Jane with pick the the card by left to right order if cards appeared (Or be detected!!!) in your hand.
+Always good thing to think what is the priority in your deck. As i said it design to play up to infinity, from turn 6 it will always check the cards in turn 6 order and play them.
 
-For custmise deck:
-Crop your in-match card image like i showned in the card image folder for better recongnition: It's not a fancy techknowledge but simple template match at balance.
-Put your deck-card image in the folder and put path: Read_deck("C:/Users/acer/Pictures/Snap/Discard deck/Cards")
-Build your turn-card recongnition list
 ```python
 Turn1_card_tupo = (1,['Sunspot', 'Blade'])
 Turn2_card_tupo = (2,['Sunspot','Blade','Wolverine'])
@@ -39,13 +44,8 @@ Turn4_card_tupo = (4,['Jubilee','Dracula','Ghost','Sunspot','Blade','Wolverine']
 Turn5_card_tupo = (5,['Spider Woman','Jubilee','Dracula','Ghost Rider','Sunspot','Blade','Wolverine'])
 Turn6_card_tupo = (6,['Hela','Hulk','AmericaChavez','Spider Woman','Jubilee','Dracula','Ghost Rider','Sunspot','Blade','Wolverine'])
 ```
-By for loop favor and algorithm, it/he/she will loop thought all the first card name in the given image recongnition folder. So 'Hela' at turn 6 if favorable will be the first put out.
 
-Don't worry beyond turn 6, it built to last forever at one match and recongnize any time the match is over or anything happend inside the match. (Currently are only errors like elements)
 
-You can free use my deck:
-![11](https://user-images.githubusercontent.com/124453554/233508648-852f3538-26df-498b-93a2-53c2c76fe046.png)
-Some tips:
 maybe 2 hours one Season Pass level. It's slow but very fast for completing daily mission for running 10 games straight.
 
 
