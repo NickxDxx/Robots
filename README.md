@@ -21,9 +21,9 @@ Current win rate in 600 games: 21%
 Preset can be download and have rooms for you to cusmise:
 A preset Discard deck image folder and preset Deck order
 Defualt can be download deck infomation:
-```
+
 ![11](https://user-images.githubusercontent.com/124453554/233508648-852f3538-26df-498b-93a2-53c2c76fe046.png)
-```
+
 Quick start
 1. Read the button images
    Download the button image folder and set the root on script.
