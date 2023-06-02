@@ -13,6 +13,14 @@ https://youtube.com/shorts/3hrlQzItkQw?feature=share
 Extreme testing, Starting program at needing recognize state, and keep playing. 
 https://youtu.be/VjReNp9dM0g
 
+Template matching (SIFT) with god like programing skills.
+
+It's Common for not playing cards at some turns even some games, the vision is extremely poor at state.
+
+win rate 21% in 611 games
+
+Exteme suitable for 24/7 auto for XP grinding. Coded only in 3 days.
+
 Currently Jane only support 
 Screen resolution at :1920x 1080
 Game setting: 60FPS, High, Full screen size - Window
