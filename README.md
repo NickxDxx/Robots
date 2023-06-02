@@ -10,7 +10,7 @@ WARNING: Only for jobs and self-interest thats why uploaded. Do not harm game in
 Extreme testing, Starting program at the end of game. 
 https://youtube.com/shorts/3hrlQzItkQw?feature=share
 
-Extreme testing, Starting program at needing recognize state, and keep playing. 
+Extreme testing, Starting program at needing recognize state, finding its state and finishing game with brand new next game recontinue circle. 
 https://youtu.be/VjReNp9dM0g
 
 Template matching (SIFT) with god like programing skills.
