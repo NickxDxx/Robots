@@ -1,7 +1,10 @@
 # Marvel-Snap-Ultra-Robust-3-day-coding
+
 -------------
-WARNING: CARE ABOU OTHER GAMERS FEELING, USING IT IN LESS PERIOD TIME, ABUSING IT WILL RESULTS THIS SCRIPT DISAPPEAR WITH NO FURTHER UPDATE.
+WARNING: Only for jobs and self-interest thats why uploaded. Do not harm game in meaningless way.
 -------------
+
+7 minutes game play: YouTube https://www.youtube.com/watch?v=1NvyePpsOCw
 
 Currently Jane only support 
 Screen resolution at :1920x 1080
