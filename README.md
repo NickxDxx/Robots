@@ -13,7 +13,7 @@ https://youtube.com/shorts/3hrlQzItkQw?feature=share
 Extreme testing, Starting program at needing recognize state, finding its state and finishing game with brand new next game recontinue circle. 
 https://youtu.be/VjReNp9dM0g
 
-Template matching (SIFT) with god like programing skills.
+''Template matching (SIFT) with god like programing skills.''
 
 It's Common for not playing cards at some turns even some games, the vision is extremely poor at state.
 
