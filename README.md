@@ -13,6 +13,30 @@ https://youtube.com/shorts/3hrlQzItkQw?feature=share
 Extreme testing, Starting program at needing recognize state, finding its state and finishing game with brand new next game recontinue circle. 
 https://youtu.be/VjReNp9dM0g
 
+Template matching (SIFT) with god like programing skills.
+
+It's Common for not playing cards at some turns even some games, the vision is extremely poor at state.
+
+win rate 21% in 611 games
+
+Exteme suitable for 24/7 auto for XP grinding. Coded only in 3 days.
+
+Currently Jane only support 
+Screen resolution at :1920x 1080
+Game setting: 60FPS, High, Full screen size - Window
+
+The project created by Jay in 3 day coding. 
+It designed only for short time period Season Pass XP acquire and doing boring daily missions.
+Currently after detecting what happened or situation on the screen or specific size of screen, it picks cards in hand and drop them randomly on locations.
+
+It detecting what everything happened around on the screen or specific size of screen, and react 
+
+You see here is the first Edition, perfection robusted robot for Marvel Snap Season pass XP acquire and mission rewards compeletion
+Currently you can prepick deck, it will run by some logic and pick locations randomly(You need to set your screen  (You can cusmise the deck you usewith 'poor' or 'Okay' vision. -- Template matching.
+It designed to play each match up to infinity(set to 19) turns and detecting and reacting to anything happened during the ahcituecutre.
+Some robust testing:
+During reconnecting game, Quit the design root, stop the program when it auto reconnecting to the match, mannually reconnecting to the game and restart the program, successfully detecting and starting at last seconds to play the round left and keep autoing.
+Cover the game screen at anywhere, even when the match ended, reshowing the game screen and auto doing the function finish the game( by clicking collect rewards/Next button/Play button) to continue next match.
 
 Current win rate in 600 games: 21%
 
@@ -63,6 +87,5 @@ Some ironic results:
 
 A robusted AI bot with poor vision: like a strong old man.
 But it will be defintely robusted handle any situations, repeat games, clear missions, win lanes and even win some games.
-
 
 
