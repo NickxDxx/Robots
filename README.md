@@ -1,4 +1,4 @@
-# Marvel-Snap-Ultra-Robust-3-day-coding
+# Marvel-Snap Auto Life
 
 -------------
 WARNING: Only for jobs and self-interest thats why uploaded. Do not harm game in meaningless way.
